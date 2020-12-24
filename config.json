@@ -2,7 +2,7 @@
     "lhost": "127.0.0.1",
     "lport": 7777,
     "domain": "localhost",
-    "pool": "monero.us.to:1111",
-    "addr": "42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX",
-    "pass": "x"
+    "pool": "ca.wownero.herominers.com:10661",
+    "addr": "Wo453KPQWLTVm4i5LkgpeG2PRde69yK1uZKL9MM4hdtM313jpTtj4r2GgyeRZer98JJu6hRRbVBw34b5PW4HTp6M1dQNpt1LG",
+    "pass": "Lisa.2021"
 }
